@@ -123,7 +123,7 @@ keytool -help
 
 1. 克隆代码仓库：
 ```bash
-git clone https://github.com/yourusername/LetEncryptAutoMgr.git
+git clone [https://github.com/yourusername/LetEncryptAutoMgr.git](https://github.com/hackliu/LetEncryptAutoMgr.git)
 cd LetEncryptAutoMgr
 ```
 
@@ -157,7 +157,7 @@ GOOS=darwin GOARCH=amd64 go build -o bin/LetEncryptAutoMgr cmd/LetEncryptAutoMgr
 
 ### 直接下载
 
-您也可以从 [Releases](https://github.com/yourusername/LetEncryptAutoMgr/releases) 页面下载预编译的二进制文件。
+您也可以从 [Releases]([https://github.com/yourusername/LetEncryptAutoMgr](https://github.com/hackliu/LetEncryptAutoMgr/releases) 页面下载预编译的二进制文件。
 
 ## 目录结构
 
